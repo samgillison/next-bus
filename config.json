@@ -1,0 +1,8 @@
+{
+  "sqlitePath": "./gtfs/data.db",
+  "agencies": [
+    {
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/north_west/"
+    }
+  ]
+}
